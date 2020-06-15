@@ -1,5 +1,5 @@
 # Who are we?
-We are the brotherhood of the red, yellow, green, blue, white and orange gummy bears.
+The alliance of the red, yellow, green, blue, white and orange gummy bears. We help you do something real about injustice.
 
 # What do we want?
 * Remove all syntactic sugar from GitHub, because such terminology not only reflects racist culture, but also serves to reinforce, legitimize, and perpetuate it!
